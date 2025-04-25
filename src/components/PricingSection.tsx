@@ -107,7 +107,7 @@ const PricingSection = () => {
               <div className="bg-white rounded-xl shadow-lg overflow-hidden border border-gray-200 transition-all duration-300 hover:bg-gradient-to-br hover:from-kojobot-blue hover:to-kojobot-purple hover:text-white group">
                 <div className="p-6 bg-gray-50 border-b border-gray-200 transition-colors group-hover:bg-transparent group-hover:border-white/20">
                   <h3 className="font-bold text-2xl text-center mb-2">Kojo Core</h3>
-                  <p className="text-gray-500 group-hover:text-white/90 text-center">١ إلى ٥ طلاب</p>
+                  <p className="text-gray-500 group-hover:text-white/90 text-center">٢ إلى ٥ طلاب</p>
                 </div>
                 
                 <div className="p-6">

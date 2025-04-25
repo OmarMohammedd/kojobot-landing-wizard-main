@@ -101,3 +101,6 @@
 .gradient-text {
   padding-bottom: 1rem !important;
 }
+.hover\:text-accent-foreground:hover {
+  color: #fff !important;
+}

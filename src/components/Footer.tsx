@@ -33,12 +33,16 @@ const Footer = () => {
             <ul className="space-y-2">
               <li className="flex items-start">
                 <span className="mr-2">•</span>
-                <span>واتساب: +20 123 456 7890</span>
+                <span>واتساب: <a 
+                style={{
+                  textDecoration: "underline"
+                }}
+                href="https://wa.me/201551257522" target='_blank'>01551257522</a>  </span>
               </li>
-              <li className="flex items-start">
+              {/* <li className="flex items-start">
                 <span className="mr-2">•</span>
                 <span>هاتف: +20 123 456 7890</span>
-              </li>
+              </li> */}
               <li className="flex items-start">
                 <span className="mr-2">•</span>
                 <span>البريد الإلكتروني: info@kojobot.com</span>
